@@ -1,0 +1,13 @@
+[credentials]
+usernames = ["shayma", "alex"]
+passwords = ["test123", "secret456"]
+
+
+[theme]
+primaryColor = "#FF6F61"  # Bright Coral
+backgroundColor = "#E0F7FA"  # Light Aqua
+secondaryBackgroundColor = "#FFEBEE"  # Soft Peach
+textColor = "#006064"  # Darker Blue
+font = "sans serif"
+
+

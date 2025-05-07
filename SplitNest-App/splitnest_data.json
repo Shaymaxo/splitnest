@@ -1,0 +1,19 @@
+{
+    "partner1": "h",
+    "partner2": "f",
+    "expenses": [
+        {
+            "amount": 60.0,
+            "description": "gas",
+            "paid_by": "h",
+            "date": "2025-05-04 21:22:49"
+        },
+        {
+            "amount": 20.0,
+            "description": "netflix",
+            "paid_by": "h",
+            "category": "Entertainment",
+            "date": "2025-05-04 21:44:37"
+        }
+    ]
+}
